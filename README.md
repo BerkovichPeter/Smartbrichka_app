@@ -4,10 +4,10 @@
 API:29
 
 * The way to build the project is to download the Gradle. 
-* Unzip the archive and add the path to the direcetory 'bin' into the enviroment variable 'path'.
+* Unzip the archive and add the path to the direcetory **'bin'** into the enviroment variable **'path'**.
 * With the installed Gradle
-* Create 'build.gradle' in the project's root directory. Add the string "apply plugin: 'java'" into 'build.gradle'
-* Then type 'gradle build' in the command line. Wait for the 'BUILD SUCCESSFUL' message.
+* Create **'build.gradle'** in the project's root directory. Add the string **"apply plugin: 'java'"** into **'build.gradle'**
+* Then type **'gradle build'** in the command line. Wait for the 'BUILD SUCCESSFUL' message.
 
 OR
 
