@@ -1,6 +1,6 @@
 # Smartbrichka_app
  This is the application for remote control for the robot. Cointains 'forward', 'right', 'left', 'back', 'stop' commands.
-##Installation
+## Installation
 API:29
 The way to build the project is to download the Gradle. 
 Unzip the archive and add the path to the direcetory 'bin' into the enviroment variable 'path'.
